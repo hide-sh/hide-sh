@@ -34,7 +34,7 @@ hidewow = {
     "from": "France",
     "age": 15,
     "job": "student",
-    "learning": ["programming", "reverse engineering", "ethical hacking"],
+    "learning": ["programming", "reverse engineering", "cybersecurity"],
 
     "other activities": ["graphism", "music"]
 }
