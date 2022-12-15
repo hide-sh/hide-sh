@@ -29,7 +29,7 @@
 <img align="left" height="380" src="https://cdn.discordapp.com/attachments/944685696797507624/993926907882131557/tumblr_72d9b6fc30d4eb5f3a7cb99913bff8c2_0ba0164c_640.webp"/>
 
 ```py
-hidewow = {
+hide-sh = {
     "names": ["hide", "HideLeOuf"],
     "from": "France",
     "age": 15,
