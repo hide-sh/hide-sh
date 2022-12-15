@@ -48,6 +48,7 @@ projects = [
 ]
 ```
 
+
 # About me
 
 <img align="right" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993927374204838038/d927ec2-1487c3ad-5d81-4898-b78e-ee98f0e369a8.png">
