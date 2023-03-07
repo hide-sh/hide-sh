@@ -43,7 +43,7 @@ hide-sh = {
 ```py
 projects = [
     "talkanon",
-    "hicloud",
+    "socialrape",
     "hidedata"
 ]
 ```
