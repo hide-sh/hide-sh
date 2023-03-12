@@ -34,8 +34,7 @@ hide-sh = {
     "from": "France",
     "age": 15,
     "job": "student",
-    "learning": ["programming", "reverse engineering", "cybersecurity"],
-
+    "learning": ["programming", "cybersecurity"],
     "other activities": ["graphism", "music"]
 }
 ```
@@ -44,7 +43,7 @@ hide-sh = {
 projects = [
     "talkanon",
     "socialrape",
-    "hidedata"
+    "hidata"
 ]
 ```
 
@@ -54,10 +53,10 @@ projects = [
 <img align="right" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993927374204838038/d927ec2-1487c3ad-5d81-4898-b78e-ee98f0e369a8.png">
 
 ```text
-I'm a very young developer
+I'm a very young developer (15yo)
 I have several projects on hold
-|-> In fact I have already done some of them but i'm too lazy to update
-I like my computer, music, my familly and movies.
+|-> Talkanon (for the example)
+And i like computers and music
 ```
 
 <p align="center">
