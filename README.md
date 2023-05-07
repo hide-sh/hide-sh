@@ -30,7 +30,7 @@
 
 ```py
 hide-sh = {
-    "names": ["hide", "HideLeOuf"],
+    "names": ["hide"],
     "from": "France",
     "age": 15,
     "job": "student",
@@ -41,9 +41,8 @@ hide-sh = {
 ---
 ```py
 projects = [
-    "talkanon",
+    "hidata",
     "socialrape",
-    "hidata"
 ]
 ```
 
@@ -55,8 +54,8 @@ projects = [
 ```text
 I'm a very young developer (15yo)
 I have several projects on hold
-|-> Talkanon (for the example)
-And i like computers and music
+|-> Hidata (for the example)
+I like computers and music
 ```
 
 <p align="center">
